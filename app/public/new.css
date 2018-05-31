@@ -39,6 +39,11 @@ img {
         width: 540px!important;
     }
 }
+@media screen and (max-width: 540px){
+    iframe{
+        width: 240px!important;
+    }
+}
 @media screen and (max-width: 760px){
     .gigspot-main{
       visibility: hidden;
