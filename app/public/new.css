@@ -90,7 +90,9 @@ img {
 .btn {
     z-index: 3;
 }
-
+#addMusicsample,#Listgig{
+    background-color: #f96332!important;
+}
 .gigspot-main {
     width: 115px;
     height: 115px;
